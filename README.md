@@ -1,4 +1,4 @@
-# Deep Learning fo PSC differentiation
+# Deep Learning for PSC differentiation
 
 Applying deep learning for very early recognition of pluripotent stem cell differentiation
 
