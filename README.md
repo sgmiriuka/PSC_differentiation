@@ -2,6 +2,7 @@
 
 Applying deep learning for very early recognition of pluripotent stem cell differentiation, published on Stem Cell Reports (https://www.cell.com/stem-cell-reports/fulltext/S2213-6711(19)30052-9)
 
+![PSC diff](https://github.com/sgmiriuka/PSC_differentiation/blob/master/n1_t1_dif_012345.jpg_01_02.jpg)
 
 In this repo you will find the jupyter notebook of our recent paper on detecting very early signs of differentiation of pluripotent stem cells. 
 
