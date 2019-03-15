@@ -7,6 +7,8 @@ In this repo you will find the jupyter notebook of our recent paper on detecting
 
 The model was run on Keras2.0 with TensorFlow as backend. 
 
+A much better, easier, faster analysis done with FastAI_v1 is also available. 
+
 Images are available upon request. 
 
 
